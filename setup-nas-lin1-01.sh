@@ -6,7 +6,7 @@
 # 13.10.2026
 #
 # Usage (en root) :
-#   SSH_PUBKEY='ssh-rsa AAAA... user@pc' LDAP_ADMIN_PASS='xxx' CONFIRM_RAID=oui REBOOT_AT_END=oui ./setup-srv-lin1-01.sh
+#   SSH_PUBKEY='ssh-rsa AAAA... user@pc' LDAP_ADMIN_PASS='xxx' CONFIRM_RAID=oui REBOOT_AT_END=oui ./setup-nas-lin1-01.sh
 #===============================================================================
 set -Eeuo pipefail
 umask 077
