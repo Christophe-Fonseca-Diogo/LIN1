@@ -46,7 +46,7 @@ Répétez le transfert pour chaque script et vers l’adresse IP du serveur auqu
 2. Déployer et valider `NAS-LIN1-01`.
 3. Déployer `SRV-LIN1-02` lorsque le NAS, les exports NFS, le DNS et LDAP sont opérationnels.
 
-Cet ordre est une recommandation pratique basée sur les dépendances déclarées par le script Nextcloud. Vérifiez l’adressage IP et les paramètres propres à votre environnement avant chaque étape.
+Cet ordre est une recommandation pratique basée sur les dépendances déclarées par le script Nextcloud.
 
 ## 4. Les paramètres
 
